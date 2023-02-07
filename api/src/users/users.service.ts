@@ -1,4 +1,4 @@
-import { ForbiddenException, Injectable } from '@nestjs/common';
+import { BadRequestException, Injectable } from '@nestjs/common';
 import { IUser } from './interfaces/users.interface';
 import { DocumentSnapshot } from 'firebase-admin/firestore';
 import { FirebaseService } from '../firebase/firebase.service';
@@ -34,7 +34,7 @@ export class UsersService {
     const userAlreadyExist = doc.exists;
 
     if (userAlreadyExist) {
-      throw new ForbiddenException();
+      throw new BadRequestException('User already exists');
     }
 
     const user: IUser = {

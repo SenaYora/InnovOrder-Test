@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43f26868-160b-4cf0-9d40-0bfe2c043c44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/api/src/app.controller.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/auth/auth.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/auth/auth.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/auth/auth.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/auth/jwt-auth.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/auth/jwt.public.meta.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/auth/jwt.strategy.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/auth/local-auth.guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/auth/local.strategy.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/users/dto/create-user.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/dto/create-user.dto.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/users/interfaces/users.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/interfaces/users.interface.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/users/users.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/users.controller.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/users/users.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/users.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/src/users/users.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/users.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/api/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +67,7 @@
       <updated>1675747387565</updated>
       <workItem from="1675747389176" duration="624000" />
       <workItem from="1675748027742" duration="18791000" />
-      <workItem from="1675776989073" duration="7159000" />
+      <workItem from="1675776989073" duration="9874000" />
     </task>
     <servers />
   </component>
