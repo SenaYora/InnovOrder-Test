@@ -2,15 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43f26868-160b-4cf0-9d40-0bfe2c043c44" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/api/src/app.controller.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/app.controller.ts" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/config/configuration.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/users/dto/create-user.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/users/interfaces/users.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/users/users.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/api/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/nest-cli.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/nest-cli.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/app.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/users/users/users.controller.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/users.controller.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/users/users/users.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/users.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/users/users/users.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/api/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,7 +37,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LOg8v4Voi00LZ20CHLv58U2QEq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +60,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Documents\Projets\Tests\InnovOrder-Test\api\src\users" />
+      <recent name="C:\Users\PC\Documents\Projets\Tests\InnovOrder-Test\api\config" />
+      <recent name="C:\Users\PC\Documents\Projets\Tests\InnovOrder-Test\api\dist\config" />
+      <recent name="C:\Users\PC\Documents\Projets\Tests\InnovOrder-Test\api" />
+      <recent name="C:\Users\PC\Documents\Projets\Tests\InnovOrder-Test\api\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675747387565</updated>
       <workItem from="1675747389176" duration="624000" />
-      <workItem from="1675748027742" duration="5907000" />
+      <workItem from="1675748027742" duration="17328000" />
     </task>
     <servers />
   </component>
