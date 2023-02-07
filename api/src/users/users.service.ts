@@ -18,4 +18,11 @@ export class UsersService {
 
     return users;
   }
+
+  async find(id: string): Promise<IUser> {
+    const userRef = this.firebase.db().collection('users').doc(id);
+    const doc = await userRef.get();
+
+    return doc.data() as IUser;
+  }
 }

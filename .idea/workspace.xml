@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="43f26868-160b-4cf0-9d40-0bfe2c043c44" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/api/config/configuration.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/users/dto/create-user.dto.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/users/interfaces/users.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/users/dto/find-user.dto.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/api/src/users/users.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/api/.gitignore" afterDir="false" />
@@ -12,8 +11,11 @@
       <change beforePath="$PROJECT_DIR$/api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/src/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/users/dto/create-user.dto.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/dto/create-user.dto.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/users/interfaces/users.interface.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/interfaces/users.interface.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/users/users.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/users.controller.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/users/users.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/users.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/src/users/users/users.controller.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/users.controller.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/src/users/users/users.controller.ts" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/users/users.controller.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/src/users/users/users.module.ts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/api/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/api/yarn.lock" afterDir="false" />
@@ -78,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675747387565</updated>
       <workItem from="1675747389176" duration="624000" />
-      <workItem from="1675748027742" duration="17328000" />
+      <workItem from="1675748027742" duration="18175000" />
     </task>
     <servers />
   </component>
